@@ -2,7 +2,7 @@
 
 # 2) Performing Static Application Security Testing Using SonarQube on Vulnerable web application:
 
-1 Download DVWA source code from https://github.com/OWASP/Vulnerable-Web-Application.git
+1 Download  source code from https://github.com/OWASP/Vulnerable-Web-Application.git
 
 2 Open SonarQube Click on create project and add an project name like " Vulnerable web application Source code review "
 
